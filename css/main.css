@@ -17,6 +17,7 @@ figcaption {
   text-align: center;
 }
 nav {
+  font-family: sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
